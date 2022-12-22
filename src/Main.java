@@ -7,7 +7,7 @@ public class Main {
 
         int r = x / 20;
         {
-            System.out.println("Ваши бонусныемили составляют " + r + "  миль");
+            System.out.println("Ваши бонусы составляют: " + r + " миль");
         }
 
 
